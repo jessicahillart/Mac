@@ -1,0 +1,36 @@
+body {
+	
+<head>
+<link href='http://fonts.googleapis.com/css?family=Syncopate:400,700' rel='stylesheet' type='text/css'>
+</head>
+background: url("http://videomultiverse.org/Images/pillars-of-creation-hires.jpg"), #000000;
+background-repeat: repeat-x, no-repeat;
+font-size: 26px;
+color: #ffffff;
+margin: 278px 200px;
+font-weight: 100;
+line-height: 32px;
+}
+h1 {
+	background: url("http://videomultiverse.org/Images/pillars-of-creation-hires.jpg");
+	background-repeat: no-repeat;
+	display: black
+	width: 147px
+	height: 44px
+	text-indent; 1000en;
+	white-space: nowrap;
+	overflow: hidden;
+}
+hr {
+	border-color: #33CCFF;
+	margin: 0;
+	width: 100px;
+}
+a {
+	background: url("http://videomultiverse.org/Images/pillars-of-creation-hires.jpg");
+	background-repeat: no-repeat;
+	display: block;
+	width: 246px;
+	height: 74px;
+	outline: none;
+}
